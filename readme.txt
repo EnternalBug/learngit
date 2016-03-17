@@ -5,5 +5,5 @@ hello world 111
 creating a new branch is quick AND simple.
 HEAD
 aa#a
-aa$a
+aa$adddd
 feature1
